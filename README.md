@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @karthickSenthil15
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning java and data anlytics
+- 👋 Hi, I’m karthick
+- 👀 I’m interested in networking and cloud computing
+- 🌱 I’m currently learning python and networking
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
